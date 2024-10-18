@@ -1,0 +1,2232 @@
+
+T = 13.67| Node 21(ED) Transmitted Packet:21|1
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 13 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 14 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 15 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 17 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 18 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 19 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 20 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 21 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 21 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 22 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 23 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 21 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 26.53| Node 30(ED) Transmitted Packet:30|2
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 21 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 21 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 22 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 -120.66 dBm node 21 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 21 overpowered node 30
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 23 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 -120.66 dBm node 21 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 21 overpowered node 30
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 -114.40 dBm node 21 -114.40 dBm; diff -0.00 dBm
+   --collision pwr both node 30 and node 21
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 -114.40 dBm node 21 -114.40 dBm; diff -0.00 dBm
+   --collision pwr both node 30 and node 21
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 -114.40 dBm node 21 -114.40 dBm; diff -0.00 dBm
+   --collision pwr both node 30 and node 21
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 28 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 14.00 dBm node 21 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 30 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 21 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 30 and node 21
+   --collision timing node 30 (0.0,0.7680000000000007,15.936) node 21 (-12.859365702478831,3.0766342975211707)
+   --not late enough
+   --pwr: node 30 14.00 dBm node 21 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 30 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 34.60| Node 50(ED) Transmitted Packet:50|3
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 48 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 50 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 50 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 51.71| Node 17(ED) Transmitted Packet:17|4
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 9 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 10 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 11 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 13 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 14 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 15 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 16 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 17 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 17 is in transmitting state
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 18 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 19 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 21 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 22 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 23 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 17 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 85.79| Node 45(ED) Transmitted Packet:45|5
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 45 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 45 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 104.62| Node 11(ED) Transmitted Packet:11|6
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 1 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 2 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 3 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 5 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 6 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 7 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 8 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 9 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 10 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 11 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 11 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 13 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 14 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 15 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 17 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 18 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 11 to node 19 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 128.24| Node 79(ED) Transmitted Packet:79|7
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 69 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 70 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 71 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 73 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 74 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 75 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 76 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 77 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 78 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 79 to node 79 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 79 is in transmitting state
+
+T = 129.60| Node 13(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 14(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 15(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 17(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 18(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 19(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 20(RP) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 22(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 23(ED) Received Packet:21|1|13.666242084308449
+
+T = 129.60| Node 30(ED) Received Packet:21|1|13.666242084308449
+
+T = 135.80| Node 20(RP) Forwarded Packet:21|1|13.666242084308449
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 20 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 21 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 22 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 23 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 20 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 142.03| Node 35(ED) Transmitted Packet:35|8
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 32 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 35 is in transmitting state
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 35 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 142.46| Node 21(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 28(RP) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 29(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 31(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 33(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 34(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 35(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 37(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 38(ED) Received Packet:30|2|26.52560778678728
+
+T = 142.46| Node 39(ED) Received Packet:30|2|26.52560778678728
+
+T = 147.83| Node 45(ED) Transmitted Packet:45|9
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 45
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 45
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 45
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 45 and node 35
+   --collision timing node 45 (0.0,0.7680000000000007,15.936) node 35 (-5.7944798056250875,10.14152019437492)
+   --not late enough
+   --pwr: node 45 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 45 is in transmitting state
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 45 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 150.53| Node 41(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 42(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 43(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 45(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 46(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 47(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 48(RP) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 49(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 51(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 53(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 54(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 55(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 57(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 58(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.53| Node 59(ED) Received Packet:50|3|34.59662203971223
+
+T = 150.99| Node 48(RP) Forwarded Packet:50|3|34.59662203971223
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 48 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 49 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 50 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 51 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 48 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 158.91| Node 66(ED) Transmitted Packet:66|10
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 61 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 62 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 63 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 64 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 65 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 66 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 66 is in transmitting state
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 67 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 69 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 70 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 71 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 73 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 74 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 66 to node 75 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 159.05| Node 28(RP) Forwarded Packet:30|2|26.52560778678728
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 28 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 29 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 30 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 31 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 28 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 167.65| Node 9(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 10(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 11(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 13(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 14(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 15(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 16(RP) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 18(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 19(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 21(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 22(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 23(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 25(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 26(ED) Received Packet:17|4|51.713551653532335
+
+T = 167.65| Node 27(ED) Received Packet:17|4|51.713551653532335
+
+T = 168.42| Node 45(ED) Transmitted Packet:45|11
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 45 is in transmitting state
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|11|168.42343247764677 from node 45 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 177.58| Node 62(ED) Transmitted Packet:62|12
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 62 and node 45
+   --collision timing node 62 (0.0,0.7680000000000007,15.936) node 45 (-9.154413785708215,6.781586214291792)
+   --not late enough
+   --pwr: node 62 -120.66 dBm node 45 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 62 and node 45
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 62 and node 45
+   --collision timing node 62 (0.0,0.7680000000000007,15.936) node 45 (-9.154413785708215,6.781586214291792)
+   --not late enough
+   --pwr: node 62 -120.66 dBm node 45 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 62 and node 45
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 62 and node 45
+   --collision timing node 62 (0.0,0.7680000000000007,15.936) node 45 (-9.154413785708215,6.781586214291792)
+   --not late enough
+   --pwr: node 62 -120.66 dBm node 45 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 62 and node 45
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 60 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 61 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 62 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 62 is in transmitting state
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 63 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 65 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 66 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 67 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 69 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 70 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 62 to node 71 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 181.98| Node 23(ED) Transmitted Packet:23|13
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 13 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 14 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 15 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 17 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 18 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 19 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 20 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 21 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 22 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 23 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 23 is in transmitting state
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-23|13|181.97612109307138 from node 23 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 189.31| Node 16(RP) Forwarded Packet:17|4|51.713551653532335
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 16 is in transmitting state
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 17 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 23 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 18 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 23 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 19 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 23 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 23 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-17|4|51.713551653532335 from node 16 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 197.45| Node 59(ED) Transmitted Packet:59|14
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 56 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 59 is in transmitting state
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 61 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 62 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 63 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 65 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 66 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-59|14|197.45086141397678 from node 59 to node 67 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 201.73| Node 37(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 38(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 39(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 41(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 42(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 43(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 44(RP) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 46(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 47(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 49(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 50(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 51(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 53(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 54(ED) Received Packet:45|5|85.79444349604366
+
+T = 201.73| Node 55(ED) Received Packet:45|5|85.79444349604366
+
+T = 202.21| Node 44(RP) Forwarded Packet:45|5|85.79444349604366
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 44 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 45 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 46 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 47 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 44 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 220.56| Node 1(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 2(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 3(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 5(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 6(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 7(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 8(RP) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 9(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 10(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 13(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 14(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 15(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 17(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 18(ED) Received Packet:11|6|104.61958640791705
+
+T = 220.56| Node 19(ED) Received Packet:11|6|104.61958640791705
+
+T = 225.12| Node 45(ED) Transmitted Packet:45|15
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 45 is in transmitting state
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-45|15|225.12153471041648 from node 45 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 225.74| Node 5(ED) Transmitted Packet:5|16
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 1 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 2 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 3 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 4 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 5 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 5 is in transmitting state
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 6 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 7 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 9 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 10 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 11 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 13 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 14 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 5 to node 15 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 228.26| Node 8(RP) Forwarded Packet:11|6|104.61958640791705
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 0 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 5 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 8 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 9 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 5 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 10 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 5 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 11 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 5 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 8 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 228.75| Node 38(ED) Transmitted Packet:38|17
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 36 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 14.00 dBm node 45 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 38 is in transmitting state
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 14.00 dBm node 45 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 45 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 38 and node 45
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 45 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 38 and node 45
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 45 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 38 and node 45
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 45 is in transmitting state
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 -120.66 dBm node 45 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 45 overpowered node 38
+CHECK collision for packet-38|17|228.74920711812092 from node 38 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 45 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 45
+   --collision timing node 38 (0.0,0.7680000000000007,15.936) node 45 (-3.6276724077044378,12.30832759229557)
+   --not late enough
+   --pwr: node 38 -120.66 dBm node 45 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 45 overpowered node 38
+
+T = 244.17| Node 69(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 70(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 71(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 73(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 74(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 75(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 76(RP) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 77(ED) Received Packet:79|7|128.23564135841164
+
+T = 244.17| Node 78(ED) Received Packet:79|7|128.23564135841164
+
+T = 251.73| Node 12(RP) Received Packet:21|1|13.666242084308449
+
+T = 251.73| Node 16(RP) Received Packet:21|1|13.666242084308449
+
+T = 251.73| Node 21(ED) Received Packet:21|1|13.666242084308449
+
+T = 251.73| Node 24(RP) Received Packet:21|1|13.666242084308449
+
+T = 251.73| Node 28(RP) Received Packet:21|1|13.666242084308449
+
+T = 252.56| Node 27(ED) Transmitted Packet:27|18
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 17 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 18 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 19 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 21 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 22 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 23 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 24 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 27 is in transmitting state
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-27|18|252.55688245134755 from node 27 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 254.32| Node 16(RP) Forwarded Packet:21|1|13.666242084308449
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 16 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 17 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 18 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 19 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 16 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+
+T = 257.97| Node 25(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 26(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 27(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 29(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 30(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 31(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 32(RP) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 33(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 34(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 37(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 38(ED) Received Packet:35|8|142.03132708132412
+
+T = 257.97| Node 39(ED) Received Packet:35|8|142.03132708132412
+
+T = 260.38| Node 76(RP) Forwarded Packet:79|7|128.23564135841164
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 68 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 72 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 76 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 76 is in transmitting state
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 77 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 78 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 79 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 76 to node 80 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 263.55| Node 41(ED) Transmitted Packet:41|19
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 41 and node 27
+   --collision timing node 41 (0.0,0.7679999999999723,15.936) node 27 (-10.991192110451237,4.94480788954877)
+   --not late enough
+   --pwr: node 41 -120.66 dBm node 27 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 41 and node 27
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 41 and node 27
+   --collision timing node 41 (0.0,0.7679999999999723,15.936) node 27 (-10.991192110451237,4.94480788954877)
+   --not late enough
+   --pwr: node 41 -120.66 dBm node 27 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 41 and node 27
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 41 and node 27
+   --collision timing node 41 (0.0,0.7679999999999723,15.936) node 27 (-10.991192110451237,4.94480788954877)
+   --not late enough
+   --pwr: node 41 -120.66 dBm node 27 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 41 and node 27
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 40 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 41 is in transmitting state
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 41 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 263.76| Node 41(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 42(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 43(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 44(RP) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 46(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 47(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 49(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 50(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 51(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 53(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 54(ED) Received Packet:45|9|147.8258068869492
+
+T = 263.76| Node 55(ED) Received Packet:45|9|147.8258068869492
+
+T = 266.93| Node 40(RP) Received Packet:50|3|34.59662203971223
+
+T = 266.93| Node 44(RP) Received Packet:50|3|34.59662203971223
+
+T = 266.93| Node 50(ED) Received Packet:50|3|34.59662203971223
+
+T = 266.93| Node 52(RP) Received Packet:50|3|34.59662203971223
+
+T = 266.93| Node 56(RP) Received Packet:50|3|34.59662203971223
+
+T = 267.34| Node 52(RP) Forwarded Packet:50|3|34.59662203971223
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 52 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 53 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 54 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 55 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 52 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 268.30| Node 32(RP) Forwarded Packet:35|8|142.03132708132412
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 16 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 32 and node 16
+   --collision timing node 32 (0.0,0.7679999999999723,15.936) node 16 (-13.971061567801343,1.9649384321986645)
+   --not late enough
+   --pwr: node 32 -120.66 dBm node 16 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 32 and node 16
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 32 is in transmitting state
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 33 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 41 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 34 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 41 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 35 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 27 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 41 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|8|142.03132708132412 from node 32 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 41 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+
+T = 274.85| Node 57(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 58(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 59(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 61(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 62(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 63(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 64(RP) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 65(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 67(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 69(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 70(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 71(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 73(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 74(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.85| Node 75(ED) Received Packet:66|10|158.91359915175934
+
+T = 274.98| Node 20(RP) Received Packet:30|2|26.52560778678728
+
+T = 274.98| Node 24(RP) Received Packet:30|2|26.52560778678728
+
+T = 274.98| Node 30(ED) Received Packet:30|2|26.52560778678728
+
+T = 274.98| Node 32(RP) Received Packet:30|2|26.52560778678728
+
+T = 274.98| Node 36(RP) Received Packet:30|2|26.52560778678728
+
+T = 275.27| Node 12(RP) Forwarded Packet:21|1|13.666242084308449
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 12 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 13 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 14 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 15 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 12 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 284.36| Node 37(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 38(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 39(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 41(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 42(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 43(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 44(RP) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 46(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 47(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 49(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 50(ED) Received Packet:45|11|168.42343247764677
+
+T = 284.36| Node 51(ED) Received Packet:45|11|168.42343247764677
+
+T = 287.19| Node 32(RP) Forwarded Packet:30|2|26.52560778678728
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 32 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 33 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 34 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 35 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 32 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 293.51| Node 57(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 58(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 59(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 60(RP) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 61(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 63(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 65(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 66(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 67(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 69(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 70(ED) Received Packet:62|12|177.57784626335499
+
+T = 293.51| Node 71(ED) Received Packet:62|12|177.57784626335499
+
+T = 294.71| Node 60(RP) Forwarded Packet:62|12|177.57784626335499
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 60 is in transmitting state
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 61 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 62 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 63 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 64 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-62|12|177.57784626335499 from node 60 to node 68 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 295.11| Node 35(ED) Transmitted Packet:35|20
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 25 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 26 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 27 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 32 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 32 is in transmitting state
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 35 is in transmitting state
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 35 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 296.31| Node 44(RP) Forwarded Packet:45|9|147.8258068869492
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 44 and node 32
+   --collision timing node 44 (0.0,0.7679999999999723,15.936) node 32 (-9.116202589043496,6.8197974109564825)
+   --not late enough
+   --pwr: node 44 -120.66 dBm node 32 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 32 overpowered node 44
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 44 and node 32
+   --collision timing node 44 (0.0,0.7679999999999723,15.936) node 32 (-9.116202589043496,6.8197974109564825)
+   --not late enough
+   --pwr: node 44 -114.40 dBm node 32 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 44 is in transmitting state
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 45 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 46 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 47 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|9|147.8258068869492 from node 44 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 60 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 44 and node 60
+   --collision timing node 44 (0.0,0.7679999999999723,15.936) node 60 (-1.6010327013992764,14.334967298600702)
+   --not late enough
+   --pwr: node 44 -120.66 dBm node 60 -120.66 dBm; diff -0.00 dBm
+   --collision pwr both node 44 and node 60
+
+T = 297.91| Node 13(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 14(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 15(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 17(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 18(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 19(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 20(RP) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 21(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 22(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 25(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 26(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 27(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 29(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 30(ED) Received Packet:23|13|181.97612109307138
+
+T = 297.91| Node 31(ED) Received Packet:23|13|181.97612109307138
+
+T = 303.54| Node 28(RP) Forwarded Packet:21|1|13.666242084308449
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 28 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 29 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 30 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 31 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-21|1|13.666242084308449 from node 28 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 28 and node 44
+   --collision timing node 28 (0.0,0.7679999999999723,15.936) node 44 (-7.227812138298077,8.708187861701902)
+   --not late enough
+   --pwr: node 28 -120.66 dBm node 44 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 28 and node 44
+
+T = 305.25| Node 8(RP) Received Packet:17|4|51.713551653532335
+
+T = 305.25| Node 12(RP) Received Packet:17|4|51.713551653532335
+
+T = 305.25| Node 17(ED) Received Packet:17|4|51.713551653532335
+
+T = 305.25| Node 20(RP) Received Packet:17|4|51.713551653532335
+
+T = 305.25| Node 24(RP) Received Packet:17|4|51.713551653532335
+
+T = 305.25| Node 38(ED) Transmitted Packet:38|21
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 29 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 38
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 30 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 38
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 31 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 38
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 33 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 35 14.00 dBm; diff -128.40 dBm
+   --collision pwr node 35 overpowered node 38
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 34 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 35 14.00 dBm; diff -128.40 dBm
+   --collision pwr node 35 overpowered node 38
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 35 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 35 is in transmitting state
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 36 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 14.00 dBm node 35 -114.40 dBm; diff 128.40 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 38 is in transmitting state
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 14.00 dBm node 35 -114.40 dBm; diff 128.40 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 38 and node 35
+   --collision timing node 38 (0.0,0.7679999999999723,15.936) node 35 (-10.14529297354045,5.790707026459529)
+   --not late enough
+   --pwr: node 38 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-38|21|305.2536252805414 from node 38 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+
+T = 305.50| Node 46(ED) Transmitted Packet:46|22
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 35
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 35 (-10.388539735024892,5.547460264975086)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 46
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 38 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 38 overpowered node 46
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+   --collision since node 38 is in transmitting state
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 35
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 35 (-10.388539735024892,5.547460264975086)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 35 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 35 overpowered node 46
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 38 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 38 overpowered node 46
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 35
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 35 (-10.388539735024892,5.547460264975086)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 38 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 38
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 35
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 35 (-10.388539735024892,5.547460264975086)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 38 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 38
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 35 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 35
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 35 (-10.388539735024892,5.547460264975086)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 35 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 38 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 38
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 44 is in transmitting state
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 14.00 dBm node 38 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+   --collision since node 46 is in transmitting state
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 2
+>> node 44 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 38
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 38 (-0.2432467614844427,15.692753238515536)
+   --not late enough
+   --pwr: node 46 14.00 dBm node 38 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|22|305.49687204202587 from node 46 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 307.41| Node 12(RP) Forwarded Packet:17|4|51.713551653532335
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 12 is in transmitting state
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 13 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 14 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 15 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 12 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 12 and node 28
+   --collision timing node 12 (0.0,0.7679999999999723,15.936) node 28 (-3.8689326833358564,12.067067316664122)
+   --not late enough
+   --pwr: node 12 -120.66 dBm node 28 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 12 and node 28
+
+T = 312.36| Node 40(RP) Forwarded Packet:50|3|34.59662203971223
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 40 and node 28
+   --collision timing node 40 (0.0,0.7679999999999723,15.936) node 28 (-8.827412922497672,7.108587077502307)
+   --not late enough
+   --pwr: node 40 -120.66 dBm node 28 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 28 overpowered node 40
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 28 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 40 and node 28
+   --collision timing node 40 (0.0,0.7679999999999723,15.936) node 28 (-8.827412922497672,7.108587077502307)
+   --not late enough
+   --pwr: node 40 -114.40 dBm node 28 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 40 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 41 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 42 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 43 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 38 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-50|3|34.59662203971223 from node 40 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 313.39| Node 49(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 50(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 51(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 53(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 54(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 55(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 56(RP) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 57(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 58(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 61(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 62(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 63(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 65(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 66(ED) Received Packet:59|14|197.45086141397678
+
+T = 313.39| Node 67(ED) Received Packet:59|14|197.45086141397678
+
+T = 314.27| Node 64(RP) Forwarded Packet:66|10|158.91359915175934
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 64 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 64 is in transmitting state
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 65 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 66 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 67 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 68 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-66|10|158.91359915175934 from node 64 to node 72 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 318.14| Node 36(RP) Received Packet:45|5|85.79444349604366
+
+T = 318.14| Node 40(RP) Received Packet:45|5|85.79444349604366
+
+T = 318.14| Node 45(ED) Received Packet:45|5|85.79444349604366
+
+T = 318.14| Node 48(RP) Received Packet:45|5|85.79444349604366
+
+T = 318.14| Node 52(RP) Received Packet:45|5|85.79444349604366
+
+T = 326.16| Node 24(RP) Forwarded Packet:21|1|13.666242084308449
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 24 is in transmitting state
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 25 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 26 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 27 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-21|1|13.666242084308449 from node 24 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 40 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 40
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 40 (-13.794631814074648,2.14136818592533)
+   --not late enough
+   --pwr: node 24 -120.66 dBm node 40 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 24 and node 40
+
+T = 332.65| Node 52(RP) Forwarded Packet:45|5|85.79444349604366
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 52 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 53 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 54 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 55 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 52 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 341.06| Node 38(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 44(RP) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 46(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 47(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 49(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 50(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 51(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 53(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 54(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.06| Node 55(ED) Received Packet:45|15|225.12153471041648
+
+T = 341.68| Node 1(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 2(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 3(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 4(RP) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 6(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 7(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 9(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 10(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 11(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 13(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 14(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.68| Node 15(ED) Received Packet:5|16|225.74308818222963
+
+T = 341.98| Node 8(RP) Forwarded Packet:17|4|51.713551653532335
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 0 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 8 is in transmitting state
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 9 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 10 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 11 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 8 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 24 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 8 and node 24
+   --collision timing node 8 (0.0,0.7679999999999723,15.936) node 24 (-15.82022868554958,0.11577131445039868)
+   --saved by the preamble
+
+T = 342.35| Node 40(RP) Forwarded Packet:45|5|85.79444349604366
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 40 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 41 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 42 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 43 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 52 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 40 and node 52
+   --collision timing node 40 (0.0,0.7679999999999723,15.936) node 52 (-9.697668051465087,6.238331948534892)
+   --not late enough
+   --pwr: node 40 -114.40 dBm node 52 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-45|5|85.79444349604366 from node 40 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 52 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 40 and node 52
+   --collision timing node 40 (0.0,0.7679999999999723,15.936) node 52 (-9.697668051465087,6.238331948534892)
+   --not late enough
+   --pwr: node 40 -120.66 dBm node 52 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 52 overpowered node 40
+
+T = 344.19| Node 0(RP) Received Packet:11|6|104.61958640791705
+
+T = 344.19| Node 4(RP) Received Packet:11|6|104.61958640791705
+
+T = 344.19| Node 11(ED) Received Packet:11|6|104.61958640791705
+
+T = 344.19| Node 12(RP) Received Packet:11|6|104.61958640791705
+
+T = 344.19| Node 16(RP) Received Packet:11|6|104.61958640791705
+
+T = 344.69| Node 29(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 30(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 31(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 33(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 34(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 35(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 36(RP) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 37(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 39(ED) Received Packet:38|17|228.74920711812092
+
+T = 344.69| Node 45(ED) Received Packet:38|17|228.74920711812092
+
+T = 356.80| Node 54(ED) Transmitted Packet:54|23
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 52 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 54 is in transmitting state
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 61 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 62 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-54|23|356.80278531592813 from node 54 to node 63 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 358.43| Node 36(RP) Forwarded Packet:30|2|26.52560778678728
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 36 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 37 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 38 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 39 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 36 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 358.69| Node 12(RP) Forwarded Packet:11|6|104.61958640791705
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 12 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 13 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 14 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 15 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 12 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 358.86| Node 46(ED) Transmitted Packet:46|24
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 37 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 38 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 39 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 41 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 42 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 43 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 44 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --no frequency coll
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 45 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 14.00 dBm node 54 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 46 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 46 is in transmitting state
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 47 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 14.00 dBm node 54 -120.66 dBm; diff 134.66 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 49 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 54 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 54
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 50 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 54 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 54
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 51 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 -114.40 dBm node 54 -114.40 dBm; diff 0.00 dBm
+   --collision pwr both node 46 and node 54
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 54 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 54 overpowered node 46
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+   --collision since node 54 is in transmitting state
+CHECK collision for packet-46|24|358.86139282411324 from node 46 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 46 and node 54
+   --collision timing node 46 (0.0,0.7679999999999723,15.936) node 54 (-2.058607508185105,13.877392491814874)
+   --not late enough
+   --pwr: node 46 -120.66 dBm node 54 14.00 dBm; diff -134.66 dBm
+   --collision pwr node 54 overpowered node 46
+
+T = 363.96| Node 0(RP) Forwarded Packet:11|6|104.61958640791705
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 0 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 0 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 1 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 2 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 3 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 12 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 0 and node 12
+   --collision timing node 0 (0.0,0.7679999999999723,15.936) node 12 (-5.2657834428615615,10.670216557138417)
+   --not late enough
+   --pwr: node 0 -114.40 dBm node 12 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-11|6|104.61958640791705 from node 0 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 12 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 0 and node 12
+   --collision timing node 0 (0.0,0.7679999999999723,15.936) node 12 (-5.2657834428615615,10.670216557138417)
+   --not late enough
+   --pwr: node 0 -120.66 dBm node 12 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 12 overpowered node 0
+
+T = 365.34| Node 48(RP) Forwarded Packet:45|5|85.79444349604366
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 48 and node 36
+   --collision timing node 48 (0.0,0.7679999999999723,15.936) node 36 (-6.913076722184087,9.022923277815892)
+   --not late enough
+   --pwr: node 48 -120.66 dBm node 36 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 36 overpowered node 48
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 48 and node 36
+   --collision timing node 48 (0.0,0.7679999999999723,15.936) node 36 (-6.913076722184087,9.022923277815892)
+   --not late enough
+   --pwr: node 48 -114.40 dBm node 36 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 48 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 49 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 50 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 51 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 2
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+>> node 46 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 54 (sf:7 bw:500kHz freq:918MHz)
+   --no frequency coll
+CHECK collision for packet-45|5|85.79444349604366 from node 48 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 368.49| Node 17(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 18(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 19(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 21(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 22(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 23(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 24(RP) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 25(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 26(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 29(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 30(ED) Received Packet:27|18|252.55688245134755
+
+T = 368.49| Node 31(ED) Received Packet:27|18|252.55688245134755
+
+T = 370.26| Node 8(RP) Received Packet:21|1|13.666242084308449
+
+T = 371.08| Node 24(RP) Forwarded Packet:30|2|26.52560778678728
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 12 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 12
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 12 (-12.382922843064136,3.553077156935842)
+   --not late enough
+   --pwr: node 24 -120.66 dBm node 12 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 12 overpowered node 24
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 12 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 12
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 12 (-12.382922843064136,3.553077156935842)
+   --not late enough
+   --pwr: node 24 -114.40 dBm node 12 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 24 is in transmitting state
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 25 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 26 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 27 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 36
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 36 (-12.646827358678934,3.289172641321045)
+   --not late enough
+   --pwr: node 24 -114.40 dBm node 36 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-30|2|26.52560778678728 from node 24 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 36
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 36 (-12.646827358678934,3.289172641321045)
+   --not late enough
+   --pwr: node 24 -120.66 dBm node 36 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 36 overpowered node 24
+
+T = 376.31| Node 68(RP) Received Packet:79|7|128.23564135841164
+
+T = 376.31| Node 72(RP) Received Packet:79|7|128.23564135841164
+
+T = 376.31| Node 79(ED) Received Packet:79|7|128.23564135841164
+
+T = 376.31| Node 80(GW) Received Packet:79|7|128.23564135841164
+
+T = 379.41| Node 72(RP) Forwarded Packet:79|7|128.23564135841164
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 64 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 68 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 72 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 72 is in transmitting state
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 73 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 74 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 75 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 76 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 72 to node 80 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 379.48| Node 37(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 38(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 39(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 40(RP) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 42(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 43(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 45(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 46(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 47(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 49(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 50(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.48| Node 51(ED) Received Packet:41|19|263.5480745617988
+
+T = 379.93| Node 4(RP) Forwarded Packet:5|16|225.74308818222963
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 0 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 4 is in transmitting state
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 5 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 6 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 7 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-5|16|225.74308818222963 from node 4 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 383.27| Node 60(RP) Received Packet:50|3|34.59662203971223
+
+T = 384.23| Node 28(RP) Received Packet:35|8|142.03132708132412
+
+T = 384.23| Node 35(ED) Received Packet:35|8|142.03132708132412
+
+T = 384.23| Node 36(RP) Received Packet:35|8|142.03132708132412
+
+T = 384.23| Node 40(RP) Received Packet:35|8|142.03132708132412
+
+T = 390.32| Node 63(ED) Transmitted Packet:63|25
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 53 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 54 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 55 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 57 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 58 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 59 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 60 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 61 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 62 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 63 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+   --collision since node 63 is in transmitting state
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 65 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 66 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 67 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 69 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 70 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+CHECK collision for packet-63|25|390.3177502145954 from node 63 to node 71 (sf:7 bw:500kHz freq:918MHz) No of other packets at rx: 0
+
+T = 391.20| Node 4(RP) Received Packet:21|1|13.666242084308449
+
+T = 391.40| Node 36(RP) Forwarded Packet:45|5|85.79444349604366
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 36 is in transmitting state
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 37 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 38 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 39 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-45|5|85.79444349604366 from node 36 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 396.20| Node 24(RP) Forwarded Packet:17|4|51.713551653532335
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 24 is in transmitting state
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 25 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 26 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 27 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 36
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 36 (-4.800661289783761,11.135338710216217)
+   --not late enough
+   --pwr: node 24 -114.40 dBm node 36 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-17|4|51.713551653532335 from node 24 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 36 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 24 and node 36
+   --collision timing node 24 (0.0,0.7679999999999723,15.936) node 36 (-4.800661289783761,11.135338710216217)
+   --not late enough
+   --pwr: node 24 -120.66 dBm node 36 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 36 overpowered node 24
+
+T = 407.40| Node 40(RP) Forwarded Packet:41|19|263.5480745617988
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 24 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 40 and node 24
+   --collision timing node 40 (0.0,0.7679999999999723,15.936) node 24 (-11.198792320982307,4.737207679017672)
+   --not late enough
+   --pwr: node 40 -120.66 dBm node 24 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 40 and node 24
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 40 is in transmitting state
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 41 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 42 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 43 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-41|19|263.5480745617988 from node 40 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 408.52| Node 68(RP) Forwarded Packet:79|7|128.23564135841164
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 64 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 68 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 68 is in transmitting state
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 69 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 70 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 71 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 72 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-79|7|128.23564135841164 from node 68 to node 76 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 410.64| Node 56(RP) Received Packet:62|12|177.57784626335499
+
+T = 410.64| Node 62(ED) Received Packet:62|12|177.57784626335499
+
+T = 410.64| Node 64(RP) Received Packet:62|12|177.57784626335499
+
+T = 410.64| Node 68(RP) Received Packet:62|12|177.57784626335499
+
+T = 411.04| Node 25(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 26(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 27(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 29(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 30(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 31(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 32(RP) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 33(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 34(ED) Received Packet:35|20|295.108332307001
+
+T = 411.04| Node 38(ED) Received Packet:35|20|295.108332307001
+
+T = 412.25| Node 40(RP) Received Packet:45|9|147.8258068869492
+
+T = 412.25| Node 45(ED) Received Packet:45|9|147.8258068869492
+
+T = 412.25| Node 48(RP) Received Packet:45|9|147.8258068869492
+
+T = 412.78| Node 16(RP) Forwarded Packet:11|6|104.61958640791705
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 16 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 16 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 17 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 18 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 19 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 20 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 16 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 413.05| Node 56(RP) Forwarded Packet:50|3|34.59662203971223
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 48 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 40 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 56 and node 40
+   --collision timing node 56 (0.0,0.7679999999999723,15.936) node 40 (-5.648211237091118,10.28778876290886)
+   --not late enough
+   --pwr: node 56 -120.66 dBm node 40 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 56 and node 40
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 52 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 56 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 56 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 57 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 58 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 59 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 60 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 68 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 56 and node 68
+   --collision timing node 56 (0.0,0.7679999999999723,15.936) node 68 (-4.524003481586192,11.411996518413787)
+   --not late enough
+   --pwr: node 56 -114.40 dBm node 68 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-50|3|34.59662203971223 from node 56 to node 64 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 68 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 56 and node 68
+   --collision timing node 56 (0.0,0.7679999999999723,15.936) node 68 (-4.524003481586192,11.411996518413787)
+   --not late enough
+   --pwr: node 56 -120.66 dBm node 68 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 68 overpowered node 56
+
+T = 417.93| Node 4(RP) Forwarded Packet:11|6|104.61958640791705
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 0 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 4 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 4 is in transmitting state
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 5 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 6 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 7 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 8 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 16 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 4 and node 16
+   --collision timing node 4 (0.0,0.7679999999999723,15.936) node 16 (-5.156477691407929,10.77952230859205)
+   --not late enough
+   --pwr: node 4 -114.40 dBm node 16 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-11|6|104.61958640791705 from node 4 to node 12 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 16 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 4 and node 16
+   --collision timing node 4 (0.0,0.7679999999999723,15.936) node 16 (-5.156477691407929,10.77952230859205)
+   --not late enough
+   --pwr: node 4 -120.66 dBm node 16 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 16 overpowered node 4
+
+T = 419.47| Node 29(ED) Received Packet:21|1|13.666242084308449
+
+T = 419.47| Node 31(ED) Received Packet:21|1|13.666242084308449
+
+T = 419.47| Node 32(RP) Received Packet:21|1|13.666242084308449
+
+T = 421.19| Node 35(ED) Received Packet:38|21|305.2536252805414
+
+T = 421.19| Node 36(RP) Received Packet:38|21|305.2536252805414
+
+T = 421.19| Node 37(ED) Received Packet:38|21|305.2536252805414
+
+T = 421.19| Node 39(ED) Received Packet:38|21|305.2536252805414
+
+T = 421.19| Node 46(ED) Received Packet:38|21|305.2536252805414
+
+T = 421.43| Node 38(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 44(RP) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 45(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 47(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 49(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 50(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 51(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 53(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 54(ED) Received Packet:46|22|305.49687204202587
+
+T = 421.43| Node 55(ED) Received Packet:46|22|305.49687204202587
+
+T = 423.34| Node 4(RP) Received Packet:17|4|51.713551653532335
+
+T = 423.70| Node 32(RP) Forwarded Packet:35|20|295.108332307001
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 24 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 16 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 32 and node 16
+   --collision timing node 32 (0.0,0.7679999999999723,15.936) node 16 (-10.921423289655536,5.014576710344443)
+   --not late enough
+   --pwr: node 32 -120.66 dBm node 16 -120.66 dBm; diff 0.00 dBm
+   --collision pwr both node 32 and node 16
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 28 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 32 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 32 is in transmitting state
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 33 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 34 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 35 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+CHECK collision for packet-35|20|295.108332307001 from node 32 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+
+T = 427.55| Node 44(RP) Forwarded Packet:50|3|34.59662203971223
+CHECK collision for packet-50|3|34.59662203971223 from node 44 to node 36 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 44 and node 32
+   --collision timing node 44 (0.0,0.7679999999999723,15.936) node 32 (-3.8542737195031123,12.081726280496866)
+   --not late enough
+   --pwr: node 44 -120.66 dBm node 32 -114.40 dBm; diff -6.26 dBm
+   --collision pwr node 32 overpowered node 44
+CHECK collision for packet-50|3|34.59662203971223 from node 44 to node 40 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 1
+>> node 32 (sf:7 bw:500kHz freq:916MHz)
+   --collision frequency at 500kHz bw
+   --collision sf node 44 and node 32
+   --collision timing node 44 (0.0,0.7679999999999723,15.936) node 32 (-3.8542737195031123,12.081726280496866)
+   --not late enough
+   --pwr: node 44 -114.40 dBm node 32 -120.66 dBm; diff 6.26 dBm
+   --p1 wins, p2 lost
+CHECK collision for packet-50|3|34.59662203971223 from node 44 to node 44 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
+   --collision since node 44 is in transmitting state
+CHECK collision for packet-50|3|34.59662203971223 from node 44 to node 45 (sf:7 bw:500kHz freq:916MHz) No of other packets at rx: 0
